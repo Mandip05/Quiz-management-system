@@ -34,7 +34,12 @@ A web-based **Quiz Management System** that allows teachers to create and manage
 
 ## Technologies Used
 - Frontend: HTML, CSS, JavaScript
+- Backend: PHP
 - Database: MySQL
+
+## Download
+-Just Downlad and few change On it
+-finished Just simple and easy Quiz Management system
 
 ## Contributing
 - Fork the repository.
